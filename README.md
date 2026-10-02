@@ -1,8 +1,23 @@
-# Do Injuries Cost Teams Matches? A Football Injury Impact Dashboard
+# IADAI2021000465-Nihith Ram Bikkina
 
-**Live app:** https://sa-mathematics-for-ai-jk34w2urbgafg7ylmtsey3.streamlit.app/
+# Candidate Name - Nihith Ram Bikkina
 
-![Dashboard preview](screenshots/dashboard_preview.png)
+# Candidate Registration Number - 1000465
+
+# CRS Name: Artificial Intelligence
+
+# Course Name - Mathematics for Artificial Intelligence
+
+# School name - Birla Open Minds International School, Kollur
+
+# Summative Assessment
+
+# ParkVision AI — Intelligent Urban Parking Analytics & Space Optimisation Platform
+
+**Live app:** https://hdjpiqqmnygm75gqpgex5l.streamlit.app/ 
+
+<img width="300" height="904" alt="image" src="https://github.com/user-attachments/assets/a34aa240-31c3-4316-a82b-4ca8b323ff62" />
+
 
 ## About this project
 

@@ -22,7 +22,7 @@ st.set_page_config(page_title="FootLens | Injury Impact Dashboard", page_icon="â
 COLORS = {"Win": "#2e9e5b", "Draw": "#f2b134", "Loss": "#d9534f",
           "before": "#3b82f6", "during": "#d9534f", "after": "#2e9e5b"}
 TEMPLATE = "plotly_white"
-DATA_DIR = Path(__file__).parent / "data"
+DATA_DIR = Path(__file__).parent / "cleaned_player_injuries.csv"
 
 
 # --------------------------------------------------------------------------- #

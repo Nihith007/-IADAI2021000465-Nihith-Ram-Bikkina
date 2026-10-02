@@ -17,6 +17,17 @@
 **Live app:** https://hdjpiqqmnygm75gqpgex5l.streamlit.app/ 
 
 <img width="300" height="904" alt="image" src="https://github.com/user-attachments/assets/a34aa240-31c3-4316-a82b-4ca8b323ff62" />
+<img width="1281" height="942" alt="image" src="https://github.com/user-attachments/assets/e1d0e6de-32c7-4c27-8a29-51443868ceeb" />
+<img width="1274" height="994" alt="image" src="https://github.com/user-attachments/assets/437cafc1-5454-456e-8fa4-08654039cf6f" />
+<img width="1306" height="915" alt="image" src="https://github.com/user-attachments/assets/1b4652b8-abc8-487e-8785-baa8ac4fdea5" />
+<img width="1291" height="920" alt="image" src="https://github.com/user-attachments/assets/9d4d36e8-f76f-40b9-a443-30bbaad5158d" />
+<img width="1313" height="950" alt="image" src="https://github.com/user-attachments/assets/0b14858a-b47f-4905-8fb2-f971788db913" />
+<img width="1307" height="927" alt="image" src="https://github.com/user-attachments/assets/b7456a45-8cb8-4713-bacf-af27bd850705" />
+<img width="1303" height="910" alt="image" src="https://github.com/user-attachments/assets/913e396d-8858-460a-b5c5-664989b25010" />
+<img width="1327" height="994" alt="image" src="https://github.com/user-attachments/assets/19708949-7311-4a72-acb4-a09806300098" />
+
+
+
 
 
 ## About this project

@@ -12,9 +12,9 @@
 
 # Summative Assessment
 
-# ParkVision AI — Intelligent Urban Parking Analytics & Space Optimisation Platform
+# Player Injuries and Team Performance Dashboard 
 
-## Live app:** https://hdjpiqqmnygm75gqpgex5l.streamlit.app/ 
+## Live app: https://hdjpiqqmnygm75gqpgex5l.streamlit.app/ 
 
 
 ## Project Overview

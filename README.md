@@ -86,15 +86,6 @@ To deploy on Streamlit Community Cloud:
 .
 ├── data/
 │   └── <your_dataset>.csv          # Raw dataset the app reads
-├── notebooks/
-│   └── Football_Injuries_Preprocessing_and_Analysis.ipynb   # Colab cleaning and analysis
-├── screenshots/
-│   ├── dashboard_preview.png
-│   ├── injury_impact.png
-│   ├── player_timeline.png
-│   ├── injury_clusters.png
-│   ├── age_vs_drop.png
-│   └── comebacks.png
 ├── app.py                          # Cleaning, analysis and Streamlit dashboard
 ├── requirements.txt                # Python packages needed
 └── README.md                       # Project documentation

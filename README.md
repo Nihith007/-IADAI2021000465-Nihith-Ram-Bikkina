@@ -86,7 +86,7 @@ To deploy on Streamlit Community Cloud:
 .
 ├── data/
 │   └── <your_dataset>.csv          # Raw dataset the app reads
-├── app.py                          # Cleaning, analysis and Streamlit dashboard
+├── app.py                          
 ├── requirements.txt                # Python packages needed
 └── README.md                       # Project documentation
 ```
